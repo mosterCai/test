@@ -1,2 +1,2 @@
 # README
-this is my project's firdt file
+this is my project's first file
